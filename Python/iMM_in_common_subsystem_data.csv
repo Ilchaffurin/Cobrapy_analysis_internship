@@ -1,0 +1,104 @@
+subsystem;in_common;total;percentage
+Extracellular exchange;0;416 ;0.0%
+Intracellular demand;0;35 ;0.0%
+Biomass and maintenance functions;0;2 ;0.0%
+Intracellular source/sink;0;3 ;0.0%
+Transport, Extracellular;0;516 ;0.0%
+Lysine Metabolism;9;22 ;40.909090909090914%
+Tryptophan metabolism;24;42 ;57.14285714285714%
+Tyrosine metabolism;13;45 ;28.888888888888886%
+Transport, Lysosomal;0;72 ;0.0%
+Transport, Mitochondrial;1;190 ;0.5263157894736842%
+Ubiquinone Biosynthesis;0;14 ;0.0%
+Transport, Nuclear;0;62 ;0.0%
+Valine, Leucine, and Isoleucine Metabolism;22;30 ;73.33333333333333%
+Transport, Endoplasmic Reticular;1;102 ;0.9803921568627451%
+Sphingolipid Metabolism;0;79 ;0.0%
+Butanoate Metabolism;2;3 ;66.66666666666666%
+beta-Alanine metabolism;5;11 ;45.45454545454545%
+Vitamin D;0;14 ;0.0%
+Propanoate Metabolism;1;10 ;10.0%
+Nucleic acid degradation;0;9 ;0.0%
+Taurine and hypotaurine metabolism;2;7 ;28.57142857142857%
+Glycine, Serine, and Threonine Metabolism;15;30 ;50.0%
+Cysteine Metabolism;9;19 ;47.368421052631575%
+Pyrimidine Catabolism;0;18 ;0.0%
+Heme Biosynthesis;7;10 ;70.0%
+Arginine and Proline Metabolism;16;33 ;48.484848484848484%
+Steroid Metabolism;0;42 ;0.0%
+Transport, Golgi Apparatus;0;78 ;0.0%
+O-Glycan Biosynthesis;0;13 ;0.0%
+Aminosugar Metabolism;0;24 ;0.0%
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;0;36 ;0.0%
+Urea cycle/amino group metabolism;11;25 ;44.0%
+Glutamate metabolism;10;10 ;100.0%
+Glycerophospholipid Metabolism;3;47 ;6.382978723404255%
+Pentose and Glucuronate Interconversions;2;12 ;16.666666666666664%
+Citric Acid Cycle;16;17 ;94.11764705882352%
+Cholesterol Metabolism;6;43 ;13.953488372093023%
+Fatty Acid Metabolism;16;42 ;38.095238095238095%
+Pyruvate Metabolism;12;27 ;44.44444444444444%
+Transport, Peroxisomal;0;80 ;0.0%
+Bile Acid Biosynthesis;0;41 ;0.0%
+Riboflavin Metabolism;0;3 ;0.0%
+Glycolysis/Gluconeogenesis;19;29 ;65.51724137931035%
+Nucleotides;44;164 ;26.82926829268293%
+Purine Catabolism;0;10 ;0.0%
+Salvage Pathway;0;3 ;0.0%
+Carnitine shuttle;2;111 ;1.8018018018018018%
+Selenoamino acid metabolism;4;12 ;33.33333333333333%
+Eicosanoid Metabolism;0;25 ;0.0%
+IMP Biosynthesis;1;10 ;10.0%
+Keratan sulfate biosynthesis;0;59 ;0.0%
+Triacylglycerol Synthesis;0;13 ;0.0%
+Glutathione Metabolism;7;11 ;63.63636363636363%
+R Group Synthesis;0;50 ;0.0%
+Starch and Sucrose Metabolism;0;21 ;0.0%
+Alanine and Aspartate Metabolism;6;12 ;50.0%
+Biotin Metabolism;0;12 ;0.0%
+Methionine Metabolism;3;5 ;60.0%
+Ascorbate and Aldarate Metabolism;2;13 ;15.384615384615385%
+N-Glycan Degradation;0;16 ;0.0%
+Pyrimidine Biosynthesis;0;8 ;0.0%
+Blood Group Biosynthesis;0;31 ;0.0%
+Vitamin A Metabolism;1;32 ;3.125%
+N-Glycan Biosynthesis;0;108 ;0.0%
+C5-Branched dibasic acid metabolism;2;8 ;25.0%
+Oxidative Phosphorylation;2;5 ;40.0%
+;1;8 ;12.5%
+D-alanine metabolism;0;3 ;0.0%
+NAD Metabolism;1;23 ;4.3478260869565215%
+Miscellaneous;2;12 ;16.666666666666664%
+Pentose Phosphate Pathway;11;18 ;61.111111111111114%
+Alkaloid biosynthesis II;0;5 ;0.0%
+Keratan sulfate degradation;0;75 ;0.0%
+Fatty acid oxidation;0;29 ;0.0%
+Fructose and Mannose Metabolism;2;16 ;12.5%
+Fatty acid activation;6;37 ;16.216216216216218%
+Heme Degradation;2;2 ;100.0%
+Limonene and pinene degradation;6;6 ;100.0%
+ROS Detoxification;5;6 ;83.33333333333334%
+Vitamin B12 Metabolism;0;2 ;0.0%
+Chondroitin sulfate degradation;0;44 ;0.0%
+D-arg and D-orn metabolism;0;2 ;0.0%
+Fatty acid elongation;1;25 ;4.0%
+Folate Metabolism;12;50 ;24.0%
+Tetrahydrobiopterin;1;9 ;11.11111111111111%
+CoA Biosynthesis;0;6 ;0.0%
+CoA Catabolism;0;4 ;0.0%
+Galactose metabolism;0;12 ;0.0%
+Chondroitin / heparan sulfate biosynthesis;0;45 ;0.0%
+CYP Metabolism;0;12 ;0.0%
+Fatty acid oxidation, peroxisome;0;19 ;0.0%
+Glyoxylate and Dicarboxylate Metabolism;0;14 ;0.0%
+Nucleotide Sugar Metabolism;0;5 ;0.0%
+Hyaluronan Metabolism;0;5 ;0.0%
+Heparan sulfate degradation;0;27 ;0.0%
+Histidine Metabolism;7;11 ;63.63636363636363%
+Vitamin B6 Metabolism;0;9 ;0.0%
+Inositol Phosphate Metabolism;0;64 ;0.0%
+Phenylalanine metabolism;4;9 ;44.44444444444444%
+Tyr, Phe, Trp Biosynthesis;0;1 ;0.0%
+Others;0;2 ;0.0%
+Stilbene, coumarine and lignin biosynthesis;0;1 ;0.0%
+Thiamine Metabolism;0;6 ;0.0%

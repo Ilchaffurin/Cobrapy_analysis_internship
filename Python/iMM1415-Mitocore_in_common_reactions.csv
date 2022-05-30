@@ -1,0 +1,871 @@
+imm_id	mitocore_id	subsystem	ec-code
+2OXOADOXm	GCCcm	Lysine Metabolism	1.8.1.4
+34DHALDD	r0464c_MitoCore	Tyrosine metabolism	1.2.1.3
+34DHALDD	ABUTD	Tyrosine metabolism	1.2.1.3
+34DHALDD	NABTNOm	Tyrosine metabolism	1.2.1.3
+34DHALDD	ALDD2xm	Tyrosine metabolism	1.2.1.3
+34DHALDD	ALDD2x	Tyrosine metabolism	1.2.1.3
+34HPPOR	34HPPOR	Tyrosine metabolism	1.13.11.27
+3HAO	3HAO	Tryptophan metabolism	1.13.11.6
+3HXKYNOXDA	APRTO2m_MitoCore	Tryptophan metabolism	1.4.3.4
+3HXKYNOXDA	AACTOORm_MitoCore	Tryptophan metabolism	1.4.3.4
+3MOXTYROX	APRTO2m_MitoCore	Tyrosine metabolism	1.4.3.4
+3MOXTYROX	AACTOORm_MitoCore	Tyrosine metabolism	1.4.3.4
+3SALATAi	ASPTA	Cysteine Metabolism	2.6.1.1
+3SALATAi	ASPTAm	Cysteine Metabolism	2.6.1.1
+3SALATAi	3SALATAi	Cysteine Metabolism	2.6.1.1
+3SALATAi	CYSTA	Cysteine Metabolism	2.6.1.1
+3SALATAi	CYSTAm	Cysteine Metabolism	2.6.1.1
+3SALATAim	ASPTA	Cysteine Metabolism	2.6.1.1
+3SALATAim	ASPTAm	Cysteine Metabolism	2.6.1.1
+3SALATAim	3SALATAi	Cysteine Metabolism	2.6.1.1
+3SALATAim	CYSTA	Cysteine Metabolism	2.6.1.1
+3SALATAim	CYSTAm	Cysteine Metabolism	2.6.1.1
+41R1H2MAE12BOOX	APRTO2m_MitoCore	Tyrosine metabolism	1.4.3.4
+41R1H2MAE12BOOX	AACTOORm_MitoCore	Tyrosine metabolism	1.4.3.4
+41R2A1H12BOOX	APRTO2m_MitoCore	Tyrosine metabolism	1.4.3.4
+41R2A1H12BOOX	AACTOORm_MitoCore	Tyrosine metabolism	1.4.3.4
+42A12BOOX	APRTO2m_MitoCore	Tyrosine metabolism	1.4.3.4
+42A12BOOX	AACTOORm_MitoCore	Tyrosine metabolism	1.4.3.4
+4HGLSDm	r0074	Arginine and Proline Metabolism	1.2.1.88
+5HOXINDACTOX	r0464c_MitoCore	Tryptophan metabolism	1.2.1.3
+5HOXINDACTOX	ABUTD	Tryptophan metabolism	1.2.1.3
+5HOXINDACTOX	NABTNOm	Tryptophan metabolism	1.2.1.3
+5HOXINDACTOX	ALDD2xm	Tryptophan metabolism	1.2.1.3
+5HOXINDACTOX	ALDD2x	Tryptophan metabolism	1.2.1.3
+5HOXINDACTOXm	r0464c_MitoCore	Tryptophan metabolism	1.2.1.3
+5HOXINDACTOXm	ABUTD	Tryptophan metabolism	1.2.1.3
+5HOXINDACTOXm	NABTNOm	Tryptophan metabolism	1.2.1.3
+5HOXINDACTOXm	ALDD2xm	Tryptophan metabolism	1.2.1.3
+5HOXINDACTOXm	ALDD2x	Tryptophan metabolism	1.2.1.3
+5HOXINOXDA	PTRCOX1	Tryptophan metabolism	1.4.3.22
+5HOXINOXDA	APRTO2m_MitoCore	Tryptophan metabolism	1.4.3.4
+5HOXINOXDA	AACTOORm_MitoCore	Tryptophan metabolism	1.4.3.4
+5HXKYNOXDA	APRTO2m_MitoCore	Tryptophan metabolism	1.4.3.4
+5HXKYNOXDA	AACTOORm_MitoCore	Tryptophan metabolism	1.4.3.4
+AACTOOR	APRTO2m_MitoCore	Glycine, Serine, and Threonine Metabolism	1.4.3.4
+AACTOOR	AACTOORm_MitoCore	Glycine, Serine, and Threonine Metabolism	1.4.3.4
+AADSACYCL	AASAD3m	Lysine Metabolism	1.2.1.31
+AADSACYCL	R03103_MitoCore	Lysine Metabolism	1.2.1.31
+AADSACYCL	RE1254C	Lysine Metabolism	1.4.1.18
+AADSACYCL	r0594	Lysine Metabolism	1.2.1.31
+AASAD3	AASAD3m	Lysine Metabolism	1.2.1.31
+AASAD3	R03103_MitoCore	Lysine Metabolism	1.2.1.31
+AASAD3	r0594	Lysine Metabolism	1.2.1.31
+AASAD3m	AASAD3m	Lysine Metabolism	1.2.1.31
+AASAD3m	R03103_MitoCore	Lysine Metabolism	1.2.1.31
+AASAD3m	r0594	Lysine Metabolism	1.2.1.31
+AATA	r0450	Lysine Metabolism	2.6.1.39
+ABTArm	ABTArm	Glutamate metabolism	2.6.1.19
+ABTArm	APAT2rm	Glutamate metabolism	2.6.1.19
+ABUTD	r0464c_MitoCore	beta-Alanine metabolism	1.2.1.3
+ABUTD	ABUTD	beta-Alanine metabolism	1.2.1.3
+ABUTD	NABTNOm	beta-Alanine metabolism	1.2.1.3
+ABUTD	ALDD2xm	beta-Alanine metabolism	1.2.1.3
+ABUTD	ALDD2x	beta-Alanine metabolism	1.2.1.3
+ACITL	ACITLm_MitoCore	Citric Acid Cycle	2.3.3.8
+ACITL	ACITL	Citric Acid Cycle	2.3.3.8
+ACACT1r_copy1	ACACT1rm	Cholesterol Metabolism	2.3.1.9
+ACACT10m	r0724	Valine, Leucine, and Isoleucine Metabolism	2.3.1.16
+ACACT10m	r0634	Valine, Leucine, and Isoleucine Metabolism	2.3.1.16
+ACACT10m	r0732	Valine, Leucine, and Isoleucine Metabolism	2.3.1.16
+ACACT10m	r0287	Valine, Leucine, and Isoleucine Metabolism	2.3.1.16
+ACACT10m	ACACT1rm	Valine, Leucine, and Isoleucine Metabolism	2.3.1.9
+ACACT10m	ACACT10m	Valine, Leucine, and Isoleucine Metabolism	2.3.1.16
+ACACT1r_copy2	ACACT1rm	Tryptophan metabolism	2.3.1.9
+ACACT1m	ACACT1rm	Tryptophan metabolism	2.3.1.9
+ACACT1x	ACACT1rm	Cholesterol Metabolism	2.3.1.9
+ACACT4p	r0724	Fatty Acid Metabolism	2.3.1.16
+ACACT4p	r0634	Fatty Acid Metabolism	2.3.1.16
+ACACT4p	r0732	Fatty Acid Metabolism	2.3.1.16
+ACACT4p	r0287	Fatty Acid Metabolism	2.3.1.16
+ACACT4p	ACACT1rm	Fatty Acid Metabolism	2.3.1.9
+ACACT4p	ACACT10m	Fatty Acid Metabolism	2.3.1.16
+ACACT5p	ACACT1rm	Fatty Acid Metabolism	2.3.1.9
+ACACT6p	r0724	Fatty Acid Metabolism	2.3.1.16
+ACACT6p	r0634	Fatty Acid Metabolism	2.3.1.16
+ACACT6p	r0732	Fatty Acid Metabolism	2.3.1.16
+ACACT6p	r0287	Fatty Acid Metabolism	2.3.1.16
+ACACT6p	ACACT1rm	Fatty Acid Metabolism	2.3.1.9
+ACACT6p	ACACT10m	Fatty Acid Metabolism	2.3.1.16
+ACACT7p	r0724	Fatty Acid Metabolism	2.3.1.16
+ACACT7p	r0634	Fatty Acid Metabolism	2.3.1.16
+ACACT7p	r0732	Fatty Acid Metabolism	2.3.1.16
+ACACT7p	r0287	Fatty Acid Metabolism	2.3.1.16
+ACACT7p	ACACT1rm	Fatty Acid Metabolism	2.3.1.9
+ACACT7p	ACACT10m	Fatty Acid Metabolism	2.3.1.16
+ACOAD1fm	r0603	Butanoate Metabolism	1.3.8.1
+ACOAD1fm	r0560	Butanoate Metabolism	1.3.8.1
+ACOAD8m	r0655	Valine, Leucine, and Isoleucine Metabolism	1.3.8.4
+ACOAH	ACOAHi	Pyruvate Metabolism	3.1.2.1
+ACOATA	ACOATA	Fatty Acid Metabolism	2.3.1.38
+ACOATA	r0678	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0691	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0681	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0682	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0760	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0761	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0762	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0763	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0764	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0694	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0695	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0765	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0766	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0692	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0693	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0767	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0768	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0769	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0770	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0712	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0713	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0701	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0702	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0771	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0772	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0696	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0697	Fatty Acid Metabolism	2.3.1.85
+ACOATA	r0773	Fatty Acid Metabolism	2.3.1.85
+ACONT	ACONTm	Citric Acid Cycle	4.2.1.3
+ACONT	ACONT	Citric Acid Cycle	4.2.1.3
+ACONTm	ACONTm	Citric Acid Cycle	4.2.1.3
+ACONTm	ACONT	Citric Acid Cycle	4.2.1.3
+ACCOAC	ACCOAC	Fatty Acid Metabolism	6.4.1.2
+ACCOACrm	ACCOAC	Fatty Acid Metabolism	6.4.1.2
+ACS	ACCOALm	Glycolysis/Gluconeogenesis	6.2.1.1
+ACS	ACSm	Glycolysis/Gluconeogenesis	6.2.1.1
+ACS	ACS	Glycolysis/Gluconeogenesis	6.2.1.1
+ACSm	ACCOALm	Glycolysis/Gluconeogenesis	6.2.1.1
+ACSm	ACSm	Glycolysis/Gluconeogenesis	6.2.1.1
+ACSm	ACS	Glycolysis/Gluconeogenesis	6.2.1.1
+ADNK1	ADNK1	Nucleotides	2.7.1.20
+ADNK1m	ADNK1	Nucleotides	2.7.1.20
+ADK1	ADK1m	Nucleotides	2.7.4.3
+ADK1	ADK1	Nucleotides	2.7.4.3
+ADSL1r	ADSL1	Nucleotides	4.3.2.2
+ADSL2r	ADSL1	IMP Biosynthesis	4.3.2.2
+ADSS	ADSS	Nucleotides	6.3.4.4
+AM6SAD	r0645	Tryptophan metabolism	1.2.1.32
+AGMTm	AGMTm	Arginine and Proline Metabolism	3.5.3.11
+AMCOXO	AMCOXO	Tryptophan metabolism	1.5.1.-
+AMCOXO	AMCOXO2_MitoCore	Tryptophan metabolism	1.5.1.-
+AMPDA	AMPD1	Nucleotides	3.5.4.6
+AMPTASECG	AMPTASECG	Glutathione Metabolism	3.4.11.2
+AMPTASECGe	AMPTASECG	Glutathione Metabolism	3.4.11.2
+APAT2rm	ABTArm	beta-Alanine metabolism	2.6.1.19
+APAT2rm	APAT2rm	beta-Alanine metabolism	2.6.1.19
+APRTO2	APRTO2m_MitoCore	Arginine and Proline Metabolism	1.4.3.4
+APRTO2	AACTOORm_MitoCore	Arginine and Proline Metabolism	1.4.3.4
+AHCi	AHC	Methionine Metabolism	3.3.1.1
+ARABR	ALCD2yf	Pentose and Glucuronate Interconversions	1.1.1.2
+ARGDCm	ARGDCm	Arginine and Proline Metabolism	4.1.1.19
+ARGN	ARGN	Urea cycle/amino group metabolism	3.5.3.1
+ARGN	ARGNm	Urea cycle/amino group metabolism	3.5.3.1
+ARGNm	ARGN	Urea cycle/amino group metabolism	3.5.3.1
+ARGNm	ARGNm	Urea cycle/amino group metabolism	3.5.3.1
+ARGSL	ARGSL	Alanine and Aspartate Metabolism	4.3.2.1
+ARGSS	ARGSS	Alanine and Aspartate Metabolism	6.3.4.5
+ASNNm	r0127	Alanine and Aspartate Metabolism	3.5.1.1
+ASNS1	ASNS1	Alanine and Aspartate Metabolism	6.3.5.4
+ASP1DC	GLUDC	beta-Alanine metabolism	4.1.1.15
+ASP1DC	ASP1DC	beta-Alanine metabolism	4.1.1.11
+ATPtm	NDPK1m	Transport, Mitochondrial	2.7.4.6
+ATPtm	NDPK1	Transport, Mitochondrial	2.7.4.6
+ATPtm	NDPK3m	Transport, Mitochondrial	2.7.4.6
+BDHm	BDHm	Butanoate Metabolism	1.1.1.30
+CK	CKc	Urea cycle/amino group metabolism	2.7.3.2
+CK	CK	Urea cycle/amino group metabolism	2.7.3.2
+CKc	CKc	Urea cycle/amino group metabolism	2.7.3.2
+CKc	CK	Urea cycle/amino group metabolism	2.7.3.2
+CYSLYSL	CYSTGL	Cysteine Metabolism	4.4.1.1
+CYSLYSL	r0193	Cysteine Metabolism	4.4.1.1
+CYSO	CYSO	Taurine and hypotaurine metabolism	1.13.11.20
+CYSTA	ASPTA	Cysteine Metabolism	2.6.1.1
+CYSTA	ASPTAm	Cysteine Metabolism	2.6.1.1
+CYSTA	3SALATAi	Cysteine Metabolism	2.6.1.1
+CYSTA	CYSTA	Cysteine Metabolism	2.6.1.1
+CYSTA	CYSTAm	Cysteine Metabolism	2.6.1.1
+CYSTAm	ASPTA	Cysteine Metabolism	2.6.1.1
+CYSTAm	ASPTAm	Cysteine Metabolism	2.6.1.1
+CYSTAm	3SALATAi	Cysteine Metabolism	2.6.1.1
+CYSTAm	CYSTA	Cysteine Metabolism	2.6.1.1
+CYSTAm	CYSTAm	Cysteine Metabolism	2.6.1.1
+CYSTGL	CYSTGL	Cysteine Metabolism	4.4.1.1
+CYSTGL	r0193	Cysteine Metabolism	4.4.1.1
+CYSTS	CYSTS	Methionine Metabolism	4.2.1.22
+CYTK1	CYTK1m	Nucleotides	2.7.4.14
+CYTK1m	CYTK1m	Nucleotides	2.7.4.14
+CYTK1n	CYTK1m	Nucleotides	2.7.4.14
+CYTK2	CYTK1m	Nucleotides	2.7.4.14
+CYTK2n	CYTK1m	Nucleotides	2.7.4.14
+ECOAH12m	r0660	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH12m	r0728	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH12m	r0731	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH12m	r0734	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH12m	ECOAH1m	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH12m	ECOAH9m	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH12m	ECOAH12m	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH1m	r0660	Tryptophan metabolism	4.2.1.17
+ECOAH1m	r0728	Tryptophan metabolism	4.2.1.17
+ECOAH1m	r0731	Tryptophan metabolism	4.2.1.17
+ECOAH1m	r0734	Tryptophan metabolism	4.2.1.17
+ECOAH1m	ECOAH1m	Tryptophan metabolism	4.2.1.17
+ECOAH1m	ECOAH9m	Tryptophan metabolism	4.2.1.17
+ECOAH1m	ECOAH12m	Tryptophan metabolism	4.2.1.17
+ECOAH1x	r0660	Tryptophan metabolism	4.2.1.17
+ECOAH1x	r0728	Tryptophan metabolism	4.2.1.17
+ECOAH1x	r0731	Tryptophan metabolism	4.2.1.17
+ECOAH1x	r0734	Tryptophan metabolism	4.2.1.17
+ECOAH1x	ECOAH1m	Tryptophan metabolism	4.2.1.17
+ECOAH1x	ECOAH9m	Tryptophan metabolism	4.2.1.17
+ECOAH1x	ECOAH12m	Tryptophan metabolism	4.2.1.17
+ECOAH9m	r0660	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH9m	r0728	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH9m	r0731	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH9m	r0734	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH9m	ECOAH1m	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH9m	ECOAH9m	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ECOAH9m	ECOAH12m	Valine, Leucine, and Isoleucine Metabolism	4.2.1.17
+ENO	ENO	Glycolysis/Gluconeogenesis	4.2.1.11
+FA140ACPHi	FA160ACPH	Fatty Acid Metabolism	3.1.2.14
+FA141ACPHi	FA160ACPH	Fatty Acid Metabolism	3.1.2.14
+FA160ACPHi	FA160ACPH	Fatty Acid Metabolism	3.1.2.14
+FA161ACPHi	FA160ACPH	Fatty Acid Metabolism	3.1.2.14
+FA180ACPH	FA160ACPH	Fatty Acid Metabolism	3.1.2.14
+FA181ACPH	FA160ACPH	Fatty Acid Metabolism	3.1.2.14
+FACOAL160	FACOAL160i	Fatty acid activation	6.2.1.3
+FACOAL180	FACOAL160i	Fatty acid activation	6.2.1.3
+ASPTA	ASPTA	Alanine and Aspartate Metabolism	2.6.1.1
+ASPTA	ASPTAm	Alanine and Aspartate Metabolism	2.6.1.1
+ASPTA	3SALATAi	Alanine and Aspartate Metabolism	2.6.1.1
+ASPTA	CYSTA	Alanine and Aspartate Metabolism	2.6.1.1
+ASPTA	CYSTAm	Alanine and Aspartate Metabolism	2.6.1.1
+ASPTAm	ASPTA	Alanine and Aspartate Metabolism	2.6.1.1
+ASPTAm	ASPTAm	Alanine and Aspartate Metabolism	2.6.1.1
+ASPTAm	3SALATAi	Alanine and Aspartate Metabolism	2.6.1.1
+ASPTAm	CYSTA	Alanine and Aspartate Metabolism	2.6.1.1
+ASPTAm	CYSTAm	Alanine and Aspartate Metabolism	2.6.1.1
+ATP1ter	NDPK1m	Transport, Endoplasmic Reticular	2.7.4.6
+ATP1ter	NDPK1	Transport, Endoplasmic Reticular	2.7.4.6
+ATP1ter	NDPK3m	Transport, Endoplasmic Reticular	2.7.4.6
+BILIRED	BILIRED	Heme Degradation	1.3.1.24
+BILIRED	BILIRED2_MitoCore	Heme Degradation	1.3.1.24
+C160CPT1	C160CPT1	Carnitine shuttle	2.3.1.21
+C160CPT1	C160CPT2	Carnitine shuttle	2.3.1.21
+C160CPT2	C160CPT1	Carnitine shuttle	2.3.1.21
+C160CPT2	C160CPT2	Carnitine shuttle	2.3.1.21
+C2M26DCOAHLm	r0660	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLm	r0728	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLm	r0731	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLm	r0734	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLm	ECOAH1m	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLm	ECOAH9m	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLm	ECOAH12m	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLx	r0660	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLx	r0728	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLx	r0731	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLx	r0734	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLx	ECOAH1m	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLx	ECOAH9m	Limonene and pinene degradation	4.2.1.17
+C2M26DCOAHLx	ECOAH12m	Limonene and pinene degradation	4.2.1.17
+CBPSam	CBPSam	Glutamate metabolism	6.3.4.16
+CPPPGO	CPPPGO	Heme Biosynthesis	1.3.3.3
+CSm	CSm	Citric Acid Cycle	2.3.3.1
+CYOOm2	CIV_MitoCore		1.9.3.1
+DHFR	FOLR2	Folate Metabolism	1.5.1.3
+DHFR	DHFR	Folate Metabolism	1.5.1.3
+DHFR	r0514	Folate Metabolism	1.5.1.3
+DHFR	r0226	Folate Metabolism	1.5.1.3
+DHPR	DHPR	Tetrahydrobiopterin	1.5.1.34
+GAPD	GAPD	Glycolysis/Gluconeogenesis	1.2.1.12
+FACOAL1821	FACOAL160i	Fatty acid activation	6.2.1.3
+FACOAL1832	FACOAL160i	Fatty acid activation	6.2.1.3
+FACOAL40im	FACOAL40im	Fatty acid activation	6.2.1.2
+FACOAL80	FACOAL160i	Fatty acid activation	6.2.1.3
+FBA	FBA	Glycolysis/Gluconeogenesis	4.1.2.13
+FBA2	FBA	Fructose and Mannose Metabolism	4.1.2.13
+FBP	FBP	Glycolysis/Gluconeogenesis	3.1.3.11
+FCLTm	FCLTm	Heme Biosynthesis	4.99.1.1
+FKYNH	FKYNH	Tryptophan metabolism	3.5.1.9
+FOLR2	FOLR2	Folate Metabolism	1.5.1.3
+FOLR2	DHFR	Folate Metabolism	1.5.1.3
+FOLR2	r0514	Folate Metabolism	1.5.1.3
+FOLR2	r0226	Folate Metabolism	1.5.1.3
+FTCD	FTCD	Folate Metabolism	4.3.1.4
+FTHFDH	FTHFDH	Folate Metabolism	1.5.1.6
+FTHFDH	FTHFDHm_MitoCore	Folate Metabolism	1.5.1.6
+FTHFLi	FTHFL	Folate Metabolism	6.3.4.3
+FTHFLi	FTHFLm	Folate Metabolism	6.3.4.3
+FTHFLmi	FTHFL	Folate Metabolism	6.3.4.3
+FTHFLmi	FTHFLm	Folate Metabolism	6.3.4.3
+FUM	FUMm	Citric Acid Cycle	4.2.1.2
+FUM	FUM	Citric Acid Cycle	4.2.1.2
+FUMAC	FUMAC	Tyrosine metabolism	3.7.1.2
+FUMm	FUMm	Citric Acid Cycle	4.2.1.2
+FUMm	FUM	Citric Acid Cycle	4.2.1.2
+G3PD1ir	G3PD1	Glycerophospholipid Metabolism	1.1.1.8
+G5SDym	G5SDym	Urea cycle/amino group metabolism	1.2.1.41
+G6PDH2r	G6PDH2r	Pentose Phosphate Pathway	1.1.1.49
+G6PDH2er	G6PDH2r	Pentose Phosphate Pathway	1.1.1.49
+G6PPer	G6PPer	Glycolysis/Gluconeogenesis	3.1.3.9
+GLNS	GLNS	Glutamate metabolism	6.3.1.2
+GLU5Km	GLU5Km	Urea cycle/amino group metabolism	2.7.2.11
+GLUCYS	GLUCYS	Glutathione Metabolism	6.3.2.2
+GCC2am	GCCam	Glycine, Serine, and Threonine Metabolism	1.4.4.2
+GCC2bim	GCCbim	Glycine, Serine, and Threonine Metabolism	2.1.2.10
+GCC2cm	GCCcm	Glycine, Serine, and Threonine Metabolism	1.8.1.4
+GCCam	GCCam	Glycine, Serine, and Threonine Metabolism	1.4.4.2
+GCCbim	GCCbim	Glycine, Serine, and Threonine Metabolism	2.1.2.10
+GCCcm	GCCcm	Glycine, Serine, and Threonine Metabolism	1.8.1.4
+GHMT2r	GHMT2r	Glycine, Serine, and Threonine Metabolism	2.1.2.1
+GHMT2r	GHMT2rm	Glycine, Serine, and Threonine Metabolism	2.1.2.1
+GHMT2rm	GHMT2r	Glycine, Serine, and Threonine Metabolism	2.1.2.1
+GHMT2rm	GHMT2rm	Glycine, Serine, and Threonine Metabolism	2.1.2.1
+GLACO	r0464c_MitoCore	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLACO	ABUTD	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLACO	NABTNOm	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLACO	ALDD2xm	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLACO	ALDD2x	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLACOm	r0464c_MitoCore	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLACOm	ABUTD	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLACOm	NABTNOm	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLACOm	ALDD2xm	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLACOm	ALDD2x	Ascorbate and Aldarate Metabolism	1.2.1.3
+GLUTCOADHm	r0541	Tryptophan metabolism	1.3.8.6
+GLYATm	GLYATm	Glycine, Serine, and Threonine Metabolism	2.3.1.29
+GLYATm	ALASm	Glycine, Serine, and Threonine Metabolism	2.3.1.37
+GLYK	GLYK	Glycerophospholipid Metabolism	2.7.1.30
+GLYKm	GLYK	Glycerophospholipid Metabolism	2.7.1.30
+GLYOX	GLYOXm	Pyruvate Metabolism	3.1.2.6
+GLYOXm	GLYOXm	Pyruvate Metabolism	3.1.2.6
+GND	GND	Pentose Phosphate Pathway	1.1.1.44
+GNDer	GND	Pentose Phosphate Pathway	1.1.1.44
+GLUDC	GLUDC	Glutamate metabolism	4.1.1.15
+GLUNm	GLUNm	Glutamate metabolism	3.5.1.2
+GLUNm	GLUN_MitoCore	Glutamate metabolism	3.5.1.2
+GLUNm	ASNS1	Glutamate metabolism	6.3.5.4
+GTHOm	GTHO	Glutamate metabolism	1.8.1.7
+GTHOm	GTHOm	Glutamate metabolism	1.8.1.7
+GTHPi	GTHP	Glutathione Metabolism	1.11.1.9
+GTHPi	GTHPm	Glutathione Metabolism	1.11.1.9
+GTHPe	GTHP	Glutathione Metabolism	1.11.1.9
+GTHPe	GTHPm	Glutathione Metabolism	1.11.1.9
+GTHPm	GTHP	Glutathione Metabolism	1.11.1.9
+GTHPm	GTHPm	Glutathione Metabolism	1.11.1.9
+GTHS	GTHS	Glutathione Metabolism	6.3.2.3
+GULNDer	ALCD2yf	Pentose and Glucuronate Interconversions	1.1.1.2
+GluForTx	FTCD	Histidine Metabolism	4.3.1.4
+GluForTx	GluForTx	Histidine Metabolism	2.1.2.5
+GTHOr	GTHO	Glutamate metabolism	1.8.1.7
+GTHOr	GTHOm	Glutamate metabolism	1.8.1.7
+HACD1m	r0722	Tryptophan metabolism	1.1.1.35
+HACD1m	r0726	Tryptophan metabolism	1.1.1.35
+HACD1m	r0730	Tryptophan metabolism	1.1.1.35
+HACD1m	r0733	Tryptophan metabolism	1.1.1.35
+HACD1m	HACD1m	Tryptophan metabolism	1.1.1.35
+HACD1m	HACD9m	Tryptophan metabolism	1.1.1.35
+HACD1x	r0722	Tryptophan metabolism	1.1.1.35
+HACD1x	r0726	Tryptophan metabolism	1.1.1.35
+HACD1x	r0730	Tryptophan metabolism	1.1.1.35
+HACD1x	r0733	Tryptophan metabolism	1.1.1.35
+HACD1x	HACD1m	Tryptophan metabolism	1.1.1.35
+HACD1x	HACD9m	Tryptophan metabolism	1.1.1.35
+HACD9m	r0722	Valine, Leucine, and Isoleucine Metabolism	1.1.1.35
+HACD9m	r0726	Valine, Leucine, and Isoleucine Metabolism	1.1.1.35
+HACD9m	r0730	Valine, Leucine, and Isoleucine Metabolism	1.1.1.35
+HACD9m	r0733	Valine, Leucine, and Isoleucine Metabolism	1.1.1.35
+HACD9m	HACD1m	Valine, Leucine, and Isoleucine Metabolism	1.1.1.35
+HACD9m	HACD9m	Valine, Leucine, and Isoleucine Metabolism	1.1.1.35
+AKGDm	GCCcm	Citric Acid Cycle	1.8.1.4
+HGNTOR	HGNTOR	Tyrosine metabolism	1.13.11.5
+HISDr	HISD	Histidine Metabolism	4.3.1.3
+HISTASE	PTRCOX1	Histidine Metabolism	1.4.3.22
+HKYNH	HKYNH	Tryptophan metabolism	3.7.1.3
+HMBS	HMBS	Heme Biosynthesis	2.5.1.61
+HMGCOAS	HMGCOASim	Cholesterol Metabolism	2.3.3.10
+HMGCOASm	HMGCOASim	Cholesterol Metabolism	2.3.3.10
+HMGLm	HMGLm	Cholesterol Metabolism	4.1.3.4
+HMGLx	HMGLm	Cholesterol Metabolism	4.1.3.4
+HOXG	HOXG	Heme Degradation	1.14.99.3
+HPROxm	P5CRm	Arginine and Proline Metabolism	1.5.1.2
+HPROxm	P5CRxm	Arginine and Proline Metabolism	1.5.1.2
+IMACTD_m	r0464c_MitoCore	Histidine Metabolism	1.2.1.3
+IMACTD_m	ABUTD	Histidine Metabolism	1.2.1.3
+IMACTD_m	NABTNOm	Histidine Metabolism	1.2.1.3
+IMACTD_m	ALDD2xm	Histidine Metabolism	1.2.1.3
+IMACTD_m	ALDD2x	Histidine Metabolism	1.2.1.3
+ICDHxm	ICDHxm	Citric Acid Cycle	1.1.1.41
+ICDHyr	ICDHyrm	Citric Acid Cycle	1.1.1.42
+ICDHyr	ICDHy	Citric Acid Cycle	1.1.1.42
+ICDHyp	ICDHyrm	Citric Acid Cycle	1.1.1.42
+ICDHyp	ICDHy	Citric Acid Cycle	1.1.1.42
+ICDHym	ICDHyrm	Citric Acid Cycle	1.1.1.42
+ICDHym	ICDHy	Citric Acid Cycle	1.1.1.42
+ITCOAL1m	SUCOAS1m	C5-Branched dibasic acid metabolism	6.2.1.4
+ITCOALm	SUCOASm	C5-Branched dibasic acid metabolism	6.2.1.5
+ILETA	LEUTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+ILETA	ILETAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+ILETA	VALTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+IZPN	IZPN	Histidine Metabolism	3.5.2.7
+ALASm	ALASm	Glycine, Serine, and Threonine Metabolism	2.3.1.37
+KAS8	r0678	Fatty acid elongation	2.3.1.85
+KAS8	r0691	Fatty acid elongation	2.3.1.85
+KAS8	r0681	Fatty acid elongation	2.3.1.85
+KAS8	r0682	Fatty acid elongation	2.3.1.85
+KAS8	r0760	Fatty acid elongation	2.3.1.85
+KAS8	r0761	Fatty acid elongation	2.3.1.85
+KAS8	r0762	Fatty acid elongation	2.3.1.85
+KAS8	r0763	Fatty acid elongation	2.3.1.85
+KAS8	r0764	Fatty acid elongation	2.3.1.85
+KAS8	r0694	Fatty acid elongation	2.3.1.85
+KAS8	r0695	Fatty acid elongation	2.3.1.85
+KAS8	r0765	Fatty acid elongation	2.3.1.85
+KAS8	r0766	Fatty acid elongation	2.3.1.85
+KAS8	r0692	Fatty acid elongation	2.3.1.85
+KAS8	r0693	Fatty acid elongation	2.3.1.85
+KAS8	r0767	Fatty acid elongation	2.3.1.85
+KAS8	r0768	Fatty acid elongation	2.3.1.85
+KAS8	r0769	Fatty acid elongation	2.3.1.85
+KAS8	r0770	Fatty acid elongation	2.3.1.85
+KAS8	r0712	Fatty acid elongation	2.3.1.85
+KAS8	r0713	Fatty acid elongation	2.3.1.85
+KAS8	r0701	Fatty acid elongation	2.3.1.85
+KAS8	r0702	Fatty acid elongation	2.3.1.85
+KAS8	r0771	Fatty acid elongation	2.3.1.85
+KAS8	r0772	Fatty acid elongation	2.3.1.85
+KAS8	r0696	Fatty acid elongation	2.3.1.85
+KAS8	r0697	Fatty acid elongation	2.3.1.85
+KAS8	r0773	Fatty acid elongation	2.3.1.85
+ILETAm	LEUTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+ILETAm	ILETAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+ILETAm	VALTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+ALATA_L	r0081	Glutamate metabolism	2.6.1.2
+ALATA_L	ALATA_L	Glutamate metabolism	2.6.1.2
+IMACTD	r0464c_MitoCore	Histidine Metabolism	1.2.1.3
+IMACTD	ABUTD	Histidine Metabolism	1.2.1.3
+IMACTD	NABTNOm	Histidine Metabolism	1.2.1.3
+IMACTD	ALDD2xm	Histidine Metabolism	1.2.1.3
+IMACTD	ALDD2x	Histidine Metabolism	1.2.1.3
+KYN	HKYNH	Tryptophan metabolism	3.7.1.3
+KYN3OX	KYN3OX	Tryptophan metabolism	1.14.13.9
+LEUTA	LEUTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+LEUTA	ILETAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+LEUTA	VALTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+LEUTAm	LEUTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+LEUTAm	ILETAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+LEUTAm	VALTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+LFORKYNHYD	HKYNH	Tryptophan metabolism	3.7.1.3
+ALCD2y	ALCD2yf	Glycolysis/Gluconeogenesis	1.1.1.2
+ALCD2y	ALCD2if	Glycolysis/Gluconeogenesis	1.1.1.1
+LGTHL	LGTHLm_MitoCore	Pyruvate Metabolism	4.4.1.5
+LCADi_D	r0464c_MitoCore	Pyruvate Metabolism	1.2.1.3
+LCADi_D	ABUTD	Pyruvate Metabolism	1.2.1.3
+LCADi_D	NABTNOm	Pyruvate Metabolism	1.2.1.3
+LCADi_D	ALDD2xm	Pyruvate Metabolism	1.2.1.3
+LCADi_D	ALDD2x	Pyruvate Metabolism	1.2.1.3
+LCADi_Dm	r0464c_MitoCore	Pyruvate Metabolism	1.2.1.3
+LCADi_Dm	ABUTD	Pyruvate Metabolism	1.2.1.3
+LCADi_Dm	NABTNOm	Pyruvate Metabolism	1.2.1.3
+LCADi_Dm	ALDD2xm	Pyruvate Metabolism	1.2.1.3
+LCADi_Dm	ALDD2x	Pyruvate Metabolism	1.2.1.3
+ALDD20x	r0464c_MitoCore	Tryptophan metabolism	1.2.1.3
+ALDD20x	ABUTD	Tryptophan metabolism	1.2.1.3
+ALDD20x	NABTNOm	Tryptophan metabolism	1.2.1.3
+ALDD20x	ALDD2xm	Tryptophan metabolism	1.2.1.3
+ALDD20x	ALDD2x	Tryptophan metabolism	1.2.1.3
+LCYSTAT	ASPTA	Cysteine Metabolism	2.6.1.1
+LCYSTAT	ASPTAm	Cysteine Metabolism	2.6.1.1
+LCYSTAT	3SALATAi	Cysteine Metabolism	2.6.1.1
+LCYSTAT	CYSTA	Cysteine Metabolism	2.6.1.1
+LCYSTAT	CYSTAm	Cysteine Metabolism	2.6.1.1
+LCYSTATm	ASPTA	Cysteine Metabolism	2.6.1.1
+LCYSTATm	ASPTAm	Cysteine Metabolism	2.6.1.1
+LCYSTATm	3SALATAi	Cysteine Metabolism	2.6.1.1
+LCYSTATm	CYSTA	Cysteine Metabolism	2.6.1.1
+LCYSTATm	CYSTAm	Cysteine Metabolism	2.6.1.1
+ALDD20xm	r0464c_MitoCore	Tryptophan metabolism	1.2.1.3
+ALDD20xm	ABUTD	Tryptophan metabolism	1.2.1.3
+ALDD20xm	NABTNOm	Tryptophan metabolism	1.2.1.3
+ALDD20xm	ALDD2xm	Tryptophan metabolism	1.2.1.3
+ALDD20xm	ALDD2x	Tryptophan metabolism	1.2.1.3
+LCYSTCBOXL	GLUDC	Taurine and hypotaurine metabolism	4.1.1.15
+LDH_D	LDH_Dm_MitoCore	Pyruvate Metabolism	1.1.1.28
+LDH_Lm	LDH_L	Pyruvate Metabolism	1.1.1.27
+LDH_Lm	2HBO	Pyruvate Metabolism	1.1.1.27
+LDH_Lm	MCLOR	Pyruvate Metabolism	1.1.1.27
+ALDD2x	r0464c_MitoCore	Glycolysis/Gluconeogenesis	1.2.1.3
+ALDD2x	ABUTD	Glycolysis/Gluconeogenesis	1.2.1.3
+ALDD2x	NABTNOm	Glycolysis/Gluconeogenesis	1.2.1.3
+ALDD2x	ALDD2xm	Glycolysis/Gluconeogenesis	1.2.1.3
+ALDD2x	ALDD2x	Glycolysis/Gluconeogenesis	1.2.1.3
+ALDD2xm	r0464c_MitoCore	Glycolysis/Gluconeogenesis	1.2.1.3
+ALDD2xm	ABUTD	Glycolysis/Gluconeogenesis	1.2.1.3
+ALDD2xm	NABTNOm	Glycolysis/Gluconeogenesis	1.2.1.3
+ALDD2xm	ALDD2xm	Glycolysis/Gluconeogenesis	1.2.1.3
+ALDD2xm	ALDD2x	Glycolysis/Gluconeogenesis	1.2.1.3
+LPCOXp	LPCOXc_MitoCore	Lysine Metabolism	1.5.3.7
+MACACI	MACACI	Tyrosine metabolism	5.2.1.2
+LYSOXp	LYSOXc_MitoCore	Lysine Metabolism	1.4.3.14
+MMEm	MMEm	Valine, Leucine, and Isoleucine Metabolism	5.1.99.1
+MMMm	MMMm	Valine, Leucine, and Isoleucine Metabolism	5.4.99.2
+METAT	METAT	Methionine Metabolism	2.5.1.6
+MMSAD1m	MMSAD1m	Valine, Leucine, and Isoleucine Metabolism	1.2.1.27
+MMSAD3m	MMSAD1m	Propanoate Metabolism	1.2.1.27
+MMSAD3m	MMSAD3m	Propanoate Metabolism	1.2.1.18
+MMSAD3m	MMSAD3m2_MitoCore	Propanoate Metabolism	1.2.1.18
+MMTSADm	MMSAD3m	Valine, Leucine, and Isoleucine Metabolism	1.2.1.18
+MMTSADm	MMSAD3m2_MitoCore	Valine, Leucine, and Isoleucine Metabolism	1.2.1.18
+MTHFC	MTHFC	Folate Metabolism	3.5.4.9
+MTHFC	MTHFD2m	Folate Metabolism	1.5.1.15
+MTHFC	MTHFCm	Folate Metabolism	3.5.4.9
+MTHFCm	MTHFC	Folate Metabolism	3.5.4.9
+MTHFCm	MTHFD2m	Folate Metabolism	1.5.1.15
+MTHFCm	MTHFCm	Folate Metabolism	3.5.4.9
+MTHFD	MTHFD	Folate Metabolism	1.5.1.5
+MTHFD	MTHFDm	Folate Metabolism	1.5.1.5
+MTHFD2i	MTHFD2m	Folate Metabolism	1.5.1.15
+MAOLNOR	APRTO2m_MitoCore	Tyrosine metabolism	1.4.3.4
+MAOLNOR	AACTOORm_MitoCore	Tyrosine metabolism	1.4.3.4
+MTHFD2m	MTHFD2m	Folate Metabolism	1.5.1.15
+MTHFDm	MTHFD	Folate Metabolism	1.5.1.5
+MTHFDm	MTHFDm	Folate Metabolism	1.5.1.5
+MCCCrm	MCCCrm	Valine, Leucine, and Isoleucine Metabolism	6.4.1.4
+NABTNO	r0464c_MitoCore	Arginine and Proline Metabolism	1.2.1.3
+NABTNO	ABUTD	Arginine and Proline Metabolism	1.2.1.3
+NABTNO	NABTNOm	Arginine and Proline Metabolism	1.2.1.3
+NABTNO	ALDD2xm	Arginine and Proline Metabolism	1.2.1.3
+NABTNO	ALDD2x	Arginine and Proline Metabolism	1.2.1.3
+MCOATA	MCOATA	Fatty Acid Metabolism	2.3.1.39
+MCOATA	r0678	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0691	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0681	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0682	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0760	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0761	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0762	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0763	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0764	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0694	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0695	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0765	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0766	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0692	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0693	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0767	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0768	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0769	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0770	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0712	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0713	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0701	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0702	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0771	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0772	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0696	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0697	Fatty Acid Metabolism	2.3.1.85
+MCOATA	r0773	Fatty Acid Metabolism	2.3.1.85
+NABTNOm	r0464c_MitoCore	Arginine and Proline Metabolism	1.2.1.3
+NABTNOm	ABUTD	Arginine and Proline Metabolism	1.2.1.3
+NABTNOm	NABTNOm	Arginine and Proline Metabolism	1.2.1.3
+NABTNOm	ALDD2xm	Arginine and Proline Metabolism	1.2.1.3
+NABTNOm	ALDD2x	Arginine and Proline Metabolism	1.2.1.3
+MCOATAm	MCOATA	Fatty Acid Metabolism	2.3.1.39
+MCOATAm	r0678	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0691	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0681	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0682	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0760	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0761	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0762	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0763	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0764	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0694	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0695	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0765	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0766	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0692	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0693	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0767	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0768	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0769	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0770	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0712	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0713	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0701	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0702	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0771	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0772	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0696	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0697	Fatty Acid Metabolism	2.3.1.85
+MCOATAm	r0773	Fatty Acid Metabolism	2.3.1.85
+MCPST	MCPST	Cysteine Metabolism	2.8.1.2
+MCPST	MCPSTm_MitoCore	Cysteine Metabolism	2.8.1.2
+MCPST	r0595m_MitoCore	Cysteine Metabolism	2.8.1.2
+MCPST	r0595B_MitoCore	Cysteine Metabolism	2.8.1.2
+MDH	MDHm	Citric Acid Cycle	1.1.1.37
+MDH	MDH	Citric Acid Cycle	1.1.1.37
+MDHm	MDHm	Citric Acid Cycle	1.1.1.37
+MDHm	MDH	Citric Acid Cycle	1.1.1.37
+ME1m	ME1m	Pyruvate Metabolism	1.1.1.38
+ME2	ME2m	Pyruvate Metabolism	1.1.1.40
+ME2	ME2	Pyruvate Metabolism	1.1.1.40
+ME2m	ME2m	Pyruvate Metabolism	1.1.1.40
+ME2m	ME2	Pyruvate Metabolism	1.1.1.40
+MGCHrm	MGCHrm	Valine, Leucine, and Isoleucine Metabolism	4.2.1.18
+NDPK1	NDPK1m	Nucleotides	2.7.4.6
+NDPK1	NDPK1	Nucleotides	2.7.4.6
+NDPK1	NDPK3m	Nucleotides	2.7.4.6
+NDPK10	NDPK1m	Nucleotides	2.7.4.6
+NDPK10	NDPK1	Nucleotides	2.7.4.6
+NDPK10	NDPK3m	Nucleotides	2.7.4.6
+NDPK10m	NDPK1m	Nucleotides	2.7.4.6
+NDPK10m	NDPK1	Nucleotides	2.7.4.6
+NDPK10m	NDPK3m	Nucleotides	2.7.4.6
+NDPK10n	NDPK1m	Nucleotides	2.7.4.6
+NDPK10n	NDPK1	Nucleotides	2.7.4.6
+NDPK10n	NDPK3m	Nucleotides	2.7.4.6
+NDPK1m	NDPK1m	Nucleotides	2.7.4.6
+NDPK1m	NDPK1	Nucleotides	2.7.4.6
+NDPK1m	NDPK3m	Nucleotides	2.7.4.6
+NDPK1n	NDPK1m	Nucleotides	2.7.4.6
+NDPK1n	NDPK1	Nucleotides	2.7.4.6
+NDPK1n	NDPK3m	Nucleotides	2.7.4.6
+NDPK2	NDPK1m	Nucleotides	2.7.4.6
+NDPK2	NDPK1	Nucleotides	2.7.4.6
+NDPK2	NDPK3m	Nucleotides	2.7.4.6
+NDPK2m	NDPK1m	Nucleotides	2.7.4.6
+NDPK2m	NDPK1	Nucleotides	2.7.4.6
+NDPK2m	NDPK3m	Nucleotides	2.7.4.6
+NDPK2n	NDPK1m	Nucleotides	2.7.4.6
+NDPK2n	NDPK1	Nucleotides	2.7.4.6
+NDPK2n	NDPK3m	Nucleotides	2.7.4.6
+NDPK3	NDPK1m	Nucleotides	2.7.4.6
+NDPK3	NDPK1	Nucleotides	2.7.4.6
+NDPK3	NDPK3m	Nucleotides	2.7.4.6
+NDPK3m	NDPK1m	Nucleotides	2.7.4.6
+NDPK3m	NDPK1	Nucleotides	2.7.4.6
+NDPK3m	NDPK3m	Nucleotides	2.7.4.6
+NDPK3n	NDPK1m	Nucleotides	2.7.4.6
+NDPK3n	NDPK1	Nucleotides	2.7.4.6
+NDPK3n	NDPK3m	Nucleotides	2.7.4.6
+NDPK4	NDPK1m	Nucleotides	2.7.4.6
+NDPK4	NDPK1	Nucleotides	2.7.4.6
+NDPK4	NDPK3m	Nucleotides	2.7.4.6
+NDPK4m	NDPK1m	Nucleotides	2.7.4.6
+NDPK4m	NDPK1	Nucleotides	2.7.4.6
+NDPK4m	NDPK3m	Nucleotides	2.7.4.6
+NDPK4n	NDPK1m	Nucleotides	2.7.4.6
+NDPK4n	NDPK1	Nucleotides	2.7.4.6
+NDPK4n	NDPK3m	Nucleotides	2.7.4.6
+NDPK5	NDPK1m	Nucleotides	2.7.4.6
+NDPK5	NDPK1	Nucleotides	2.7.4.6
+NDPK5	NDPK3m	Nucleotides	2.7.4.6
+NDPK5m	NDPK1m	Nucleotides	2.7.4.6
+NDPK5m	NDPK1	Nucleotides	2.7.4.6
+NDPK5m	NDPK3m	Nucleotides	2.7.4.6
+NDPK5n	NDPK1m	Nucleotides	2.7.4.6
+NDPK5n	NDPK1	Nucleotides	2.7.4.6
+NDPK5n	NDPK3m	Nucleotides	2.7.4.6
+NDPK6	NDPK1m	Nucleotides	2.7.4.6
+NDPK6	NDPK1	Nucleotides	2.7.4.6
+NDPK6	NDPK3m	Nucleotides	2.7.4.6
+NDPK6m	NDPK1m	Nucleotides	2.7.4.6
+NDPK6m	NDPK1	Nucleotides	2.7.4.6
+NDPK6m	NDPK3m	Nucleotides	2.7.4.6
+NDPK6n	NDPK1m	Nucleotides	2.7.4.6
+NDPK6n	NDPK1	Nucleotides	2.7.4.6
+NDPK6n	NDPK3m	Nucleotides	2.7.4.6
+NDPK7	NDPK1m	Nucleotides	2.7.4.6
+NDPK7	NDPK1	Nucleotides	2.7.4.6
+NDPK7	NDPK3m	Nucleotides	2.7.4.6
+NDPK7m	NDPK1m	Nucleotides	2.7.4.6
+NDPK7m	NDPK1	Nucleotides	2.7.4.6
+NDPK7m	NDPK3m	Nucleotides	2.7.4.6
+NDPK7n	NDPK1m	Nucleotides	2.7.4.6
+NDPK7n	NDPK1	Nucleotides	2.7.4.6
+NDPK7n	NDPK3m	Nucleotides	2.7.4.6
+NDPK8	NDPK1m	Nucleotides	2.7.4.6
+NDPK8	NDPK1	Nucleotides	2.7.4.6
+NDPK8	NDPK3m	Nucleotides	2.7.4.6
+NDPK8m	NDPK1m	Nucleotides	2.7.4.6
+NDPK8m	NDPK1	Nucleotides	2.7.4.6
+NDPK8m	NDPK3m	Nucleotides	2.7.4.6
+NDPK8n	NDPK1m	Nucleotides	2.7.4.6
+NDPK8n	NDPK1	Nucleotides	2.7.4.6
+NDPK8n	NDPK3m	Nucleotides	2.7.4.6
+NDPK9	NDPK1m	Nucleotides	2.7.4.6
+NDPK9	NDPK1	Nucleotides	2.7.4.6
+NDPK9	NDPK3m	Nucleotides	2.7.4.6
+NDPK9m	NDPK1m	Nucleotides	2.7.4.6
+NDPK9m	NDPK1	Nucleotides	2.7.4.6
+NDPK9m	NDPK3m	Nucleotides	2.7.4.6
+NDPK9n	NDPK1m	Nucleotides	2.7.4.6
+NDPK9n	NDPK1	Nucleotides	2.7.4.6
+NDPK9n	NDPK3m	Nucleotides	2.7.4.6
+NOS1	NOS1	Arginine and Proline Metabolism	1.14.13.39
+NOS1	NOS2	Arginine and Proline Metabolism	1.14.13.39
+NOS2	NOS1	Arginine and Proline Metabolism	1.14.13.39
+NOS2	NOS2	Arginine and Proline Metabolism	1.14.13.39
+ORNDC	ORNDC	Urea cycle/amino group metabolism	4.1.1.17
+ORNTArm	ORNTArm	Urea cycle/amino group metabolism	2.6.1.13
+OCBTm	OCBTm	Urea cycle/amino group metabolism	2.1.3.3
+OCOAT1m	OCOAT1m	Valine, Leucine, and Isoleucine Metabolism	2.8.3.5
+P5CDm	r0074	Glutamate metabolism	1.2.1.88
+P5CR	P5CRm	Urea cycle/amino group metabolism	1.5.1.2
+P5CR	P5CRxm	Urea cycle/amino group metabolism	1.5.1.2
+P5CRm	P5CRm	Arginine and Proline Metabolism	1.5.1.2
+P5CRm	P5CRxm	Arginine and Proline Metabolism	1.5.1.2
+P5CRx	P5CRm	Urea cycle/amino group metabolism	1.5.1.2
+P5CRx	P5CRxm	Urea cycle/amino group metabolism	1.5.1.2
+P5CRxm	P5CRm	Arginine and Proline Metabolism	1.5.1.2
+P5CRxm	P5CRxm	Arginine and Proline Metabolism	1.5.1.2
+PCLAD	PCLAD	Tryptophan metabolism	4.1.1.45
+PCm	PCm	Pyruvate Metabolism	6.4.1.1
+PHCDm	r0074	Arginine and Proline Metabolism	1.2.1.88
+PDHm	GCCcm	Glycolysis/Gluconeogenesis	1.8.1.4
+PEAMNO	PTRCOX1	Phenylalanine metabolism	1.4.3.22
+PEAMNO	APRTO2m_MitoCore	Phenylalanine metabolism	1.4.3.4
+PEAMNO	AACTOORm_MitoCore	Phenylalanine metabolism	1.4.3.4
+PHETA1	ASPTA	Phenylalanine metabolism	2.6.1.1
+PHETA1	ASPTAm	Phenylalanine metabolism	2.6.1.1
+PHETA1	3SALATAi	Phenylalanine metabolism	2.6.1.1
+PHETA1	CYSTA	Phenylalanine metabolism	2.6.1.1
+PHETA1	CYSTAm	Phenylalanine metabolism	2.6.1.1
+PHETA1m	ASPTA	Phenylalanine metabolism	2.6.1.1
+PHETA1m	ASPTAm	Phenylalanine metabolism	2.6.1.1
+PHETA1m	3SALATAi	Phenylalanine metabolism	2.6.1.1
+PHETA1m	CYSTA	Phenylalanine metabolism	2.6.1.1
+PHETA1m	CYSTAm	Phenylalanine metabolism	2.6.1.1
+PEPCK_re	PEPCK	Glycolysis/Gluconeogenesis	4.1.1.32
+PEPCK_re	PEPCKm	Glycolysis/Gluconeogenesis	4.1.1.32
+PEPCKm	PEPCK	Glycolysis/Gluconeogenesis	4.1.1.32
+PEPCKm	PEPCKm	Glycolysis/Gluconeogenesis	4.1.1.32
+PFK	PFK	Glycolysis/Gluconeogenesis	2.7.1.11
+PGCD	PGCD	Glycine, Serine, and Threonine Metabolism	1.1.1.95
+PGI	PGI	Glycolysis/Gluconeogenesis	5.3.1.9
+PGK	PGK	Glycolysis/Gluconeogenesis	2.7.2.3
+PGL	PGL	Pentose Phosphate Pathway	3.1.1.31
+PGLer	PGL	Pentose Phosphate Pathway	3.1.1.31
+PGM	PGM	Glycolysis/Gluconeogenesis	5.4.2.1
+MMCD	MMCDm	Valine, Leucine, and Isoleucine Metabolism	4.1.1.41
+MMCDm	MMCDm	Valine, Leucine, and Isoleucine Metabolism	4.1.1.41
+MMCDp	MMCDm	Valine, Leucine, and Isoleucine Metabolism	4.1.1.41
+PTRCAT1	PTRCAT1m_MitoCore	Arginine and Proline Metabolism	2.3.1.57
+PPOR	34HPPOR	Phenylalanine metabolism	1.13.11.27
+PPPGOm	PPPGOmB_MitoCore	Heme Biosynthesis	1.3.3.4
+PTRCOX1	PTRCOX1	Arginine and Proline Metabolism	1.4.3.22
+PPA	PPA	Oxidative Phosphorylation	3.6.1.1
+PPA	PPAm	Oxidative Phosphorylation	3.6.1.1
+PRO1x	P5CRm	Arginine and Proline Metabolism	1.5.1.2
+PRO1x	P5CRxm	Arginine and Proline Metabolism	1.5.1.2
+PRO1xm	P5CRm	Arginine and Proline Metabolism	1.5.1.2
+PRO1xm	P5CRxm	Arginine and Proline Metabolism	1.5.1.2
+PPAer	PPA	Miscellaneous	3.6.1.1
+PPAer	PPAm	Miscellaneous	3.6.1.1
+PPAm	PPA	Oxidative Phosphorylation	3.6.1.1
+PPAm	PPAm	Oxidative Phosphorylation	3.6.1.1
+PPAn	PPA	Miscellaneous	3.6.1.1
+PPAn	PPAm	Miscellaneous	3.6.1.1
+PPBNGS	PPBNGS	Heme Biosynthesis	4.2.1.24
+PPCOACm	PPCOACm	Valine, Leucine, and Isoleucine Metabolism	6.4.1.3
+PRPNCOAHYDm	r0660	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDm	r0728	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDm	r0731	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDm	r0734	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDm	ECOAH1m	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDm	ECOAH9m	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDm	ECOAH12m	beta-Alanine metabolism	4.2.1.17
+RPE	RPE	Pentose Phosphate Pathway	5.1.3.1
+PRPNCOAHYDx	r0660	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDx	r0728	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDx	r0731	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDx	r0734	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDx	ECOAH1m	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDx	ECOAH9m	beta-Alanine metabolism	4.2.1.17
+PRPNCOAHYDx	ECOAH12m	beta-Alanine metabolism	4.2.1.17
+RPI	RPI	Pentose Phosphate Pathway	5.3.1.6
+PSERT	PSERT	Glycine, Serine, and Threonine Metabolism	2.6.1.52
+PSP_L	PSP_L	Glycine, Serine, and Threonine Metabolism	3.1.3.3
+PTE2x	ACOT2_MitoCore	Fatty Acid Metabolism	3.1.2.2
+PTE2x	RE2649M	Fatty Acid Metabolism	3.1.2.2
+PYK	PYK	Glycolysis/Gluconeogenesis	2.7.1.40
+PYK	r0122	Glycolysis/Gluconeogenesis	2.7.1.40
+PYLALDOX	r0464c_MitoCore	Limonene and pinene degradation	1.2.1.3
+PYLALDOX	ABUTD	Limonene and pinene degradation	1.2.1.3
+PYLALDOX	NABTNOm	Limonene and pinene degradation	1.2.1.3
+PYLALDOX	ALDD2xm	Limonene and pinene degradation	1.2.1.3
+PYLALDOX	ALDD2x	Limonene and pinene degradation	1.2.1.3
+PYLALDOXm	r0464c_MitoCore	Limonene and pinene degradation	1.2.1.3
+PYLALDOXm	ABUTD	Limonene and pinene degradation	1.2.1.3
+PYLALDOXm	NABTNOm	Limonene and pinene degradation	1.2.1.3
+PYLALDOXm	ALDD2xm	Limonene and pinene degradation	1.2.1.3
+PYLALDOXm	ALDD2x	Limonene and pinene degradation	1.2.1.3
+SBTR	ALCD2yf	Fructose and Mannose Metabolism	1.1.1.2
+SACCD3m	SACCD3m	Lysine Metabolism	1.5.1.8
+SACCD4m	r0525	Lysine Metabolism	1.5.1.9
+SEAHCYSHYD	AHC	Selenoamino acid metabolism	3.3.1.1
+SELCYSTGL	CYSTGL	Selenoamino acid metabolism	4.4.1.1
+SELCYSTGL	r0193	Selenoamino acid metabolism	4.4.1.1
+SELCYSTS	CYSTS	Selenoamino acid metabolism	4.2.1.22
+SELMETAT	METAT	Selenoamino acid metabolism	2.5.1.6
+SPODM	SPODMm	ROS Detoxification	1.15.1.1
+SPODMe	SPODMm	ROS Detoxification	1.15.1.1
+SPODMm	SPODMm	ROS Detoxification	1.15.1.1
+SPODMn	SPODMm	ROS Detoxification	1.15.1.1
+SPODMx	SPODMm	ROS Detoxification	1.15.1.1
+SSALxm	r0178	Glutamate metabolism	1.2.1.24
+RDH1	ALCD2if	Vitamin A Metabolism	1.1.1.1
+SUCOAS1m	SUCOAS1m	Citric Acid Cycle	6.2.1.4
+SUCOASm	SUCOASm	Citric Acid Cycle	6.2.1.5
+T2M26DCOAHLm	r0660	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLm	r0728	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLm	r0731	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLm	r0734	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLm	ECOAH1m	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLm	ECOAH9m	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLm	ECOAH12m	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLx	r0660	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLx	r0728	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLx	r0731	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLx	r0734	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLx	ECOAH1m	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLx	ECOAH9m	Limonene and pinene degradation	4.2.1.17
+T2M26DCOAHLx	ECOAH12m	Limonene and pinene degradation	4.2.1.17
+TALA	TALA	Pentose Phosphate Pathway	2.2.1.2
+SUCD1m	CII_MitoCore	Citric Acid Cycle	1.3.5.1
+TKT1	TKT1	Pentose Phosphate Pathway	2.2.1.1
+TKT1	TKT2	Pentose Phosphate Pathway	2.2.1.1
+TKT2	TKT1	Pentose Phosphate Pathway	2.2.1.1
+TKT2	TKT2	Pentose Phosphate Pathway	2.2.1.1
+THD1m	NNT_MitoCore	NAD Metabolism	1.6.1.2
+TPI	TPI	Glycolysis/Gluconeogenesis	5.3.1.1
+THRD_L	THRD_L	Glycine, Serine, and Threonine Metabolism	4.3.1.19
+TRYPTAOX	PTRCOX1	Tryptophan metabolism	1.4.3.22
+TRYPTAOX	APRTO2m_MitoCore	Tryptophan metabolism	1.4.3.4
+TRYPTAOX	AACTOORm_MitoCore	Tryptophan metabolism	1.4.3.4
+TYROXDAc	PTRCOX1	Tyrosine metabolism	1.4.3.22
+TYROXDAc	APRTO2m_MitoCore	Tyrosine metabolism	1.4.3.4
+TYROXDAc	AACTOORm_MitoCore	Tyrosine metabolism	1.4.3.4
+TYRTA	ASPTA	Tyrosine metabolism	2.6.1.1
+TYRTA	ASPTAm	Tyrosine metabolism	2.6.1.1
+TYRTA	3SALATAi	Tyrosine metabolism	2.6.1.1
+TYRTA	CYSTA	Tyrosine metabolism	2.6.1.1
+TYRTA	CYSTAm	Tyrosine metabolism	2.6.1.1
+TYRTAim	ASPTA	Tyrosine metabolism	2.6.1.1
+TYRTAim	ASPTAm	Tyrosine metabolism	2.6.1.1
+TYRTAim	3SALATAi	Tyrosine metabolism	2.6.1.1
+TYRTAim	CYSTA	Tyrosine metabolism	2.6.1.1
+TYRTAim	CYSTAm	Tyrosine metabolism	2.6.1.1
+UMPK	CYTK1m	Nucleotides	2.7.4.14
+UMPKm	CYTK1m	Nucleotides	2.7.4.14
+UMPKn	CYTK1m	Nucleotides	2.7.4.14
+UPP3S	UPP3S	Heme Biosynthesis	4.2.1.75
+UPPDC1	UPPDC1	Heme Biosynthesis	4.1.1.37
+URCN	URCN	Histidine Metabolism	4.2.1.49
+VALTA	LEUTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+VALTA	ILETAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+VALTA	VALTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+VALTAim	LEUTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+VALTAim	ILETAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42
+VALTAim	VALTAm	Valine, Leucine, and Isoleucine Metabolism	2.6.1.42

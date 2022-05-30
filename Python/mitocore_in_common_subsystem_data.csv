@@ -1,0 +1,98 @@
+subsystem;in_common;total;percentage
+None;0;70;0.0%
+Objective Function - ATP;0;1;0.0%
+Objective Function - Heme;0;1;0.0%
+Objective Function - Lipid synthesis;0;1;0.0%
+Objective Function - Protein Synthesis;0;1;0.0%
+Glycolysis;2;3;66.66666666666666%
+Gluconeogenesis;3;3;100.0%
+Glycolysis/gluconeogenesis;9;9;100.0%
+Pentose phosphate pathway;8;8;100.0%
+TCA cycle;8;10;80.0%
+Electron transport chain CI;0;1;0.0%
+Electron transport chain CII;1;1;100.0%
+Electron transport chain CIII;0;1;0.0%
+Electron transport chain CIV;1;1;100.0%
+Electron transport chain CV;0;1;0.0%
+TCA cycle periphery;9;9;100.0%
+Cytosolic misc;5;5;100.0%
+Reductive carboxylation;2;2;100.0%
+Reductive carboxylation / Acetyl-CoA production for biosynthesis;1;1;100.0%
+Malate aspartate shuttle;3;5;60.0%
+Glycerol phosphate shuttle;1;2;50.0%
+Carnitine shuttle;5;6;83.33333333333334%
+Fatty acid elongation in mitochondria;1;7;14.285714285714285%
+FA metabolism;14;23;60.86956521739131%
+FA and ketone body metabolism / Ketogenesis;1;1;100.0%
+FA synthesis - cytosolic;32;32;100.0%
+Butanoate metabolism;1;1;100.0%
+Ketone bodies - degradation;2;2;100.0%
+Ketogenesis;1;1;100.0%
+Ketogenesis / Leucine degradation;1;1;100.0%
+Leucine degradation;4;5;80.0%
+Isoleucine degradation;5;6;83.33333333333334%
+Valine degradation;3;6;50.0%
+Propanoate metabolism;5;5;100.0%
+Propanoate synthesis;2;2;100.0%
+Threonine degradation;1;2;50.0%
+Threonine and Methionine degradation;1;2;50.0%
+Methionine degradation;3;4;75.0%
+Methionine and Serine degradation;2;2;100.0%
+Cysteine degradation I;2;3;66.66666666666666%
+Cysteine degradation II;7;7;100.0%
+Cysteine degradation III;1;1;100.0%
+Tryptophan Metabolism;8;11;72.72727272727273%
+Tryptophan / Lysine Metabolism;1;2;50.0%
+Lysine degradation (saccharopine pathway);5;5;100.0%
+Lysine degradation (L-pipecolate pathway);4;9;44.44444444444444%
+Proline degradation;0;1;0.0%
+Proline degradation/synthesis;0;1;0.0%
+Proline / ornithine degradation;1;1;100.0%
+Proline synthesis;4;4;100.0%
+Ornithine degradation;1;1;100.0%
+Ornithine degradation (cytosolic);4;4;100.0%
+Arginine degradation;5;6;83.33333333333334%
+GABA shunt;3;3;100.0%
+GABA shunt - transport;0;1;0.0%
+Glutamate degradation/synthesis;0;2;0.0%
+Glutamate degradation/synthesis - cytosolic;0;2;0.0%
+Glutamine synthesis;1;1;100.0%
+Glutamine degradation;1;1;100.0%
+Glutamine degradation - cytosolic;1;1;100.0%
+Serine and glycine biosynthesis;5;5;100.0%
+Folate cytosolic;7;7;100.0%
+Serine degradation;0;1;0.0%
+Glycine cleavage system (GCS);3;3;100.0%
+Folate mitochondrial;7;7;100.0%
+Glycine degradation;5;6;83.33333333333334%
+Citrulline biosynthesis;2;2;100.0%
+NOS Signalling;2;2;100.0%
+Glutathione degradation;1;2;50.0%
+Glutathione synthesis;2;2;100.0%
+Phenylalanine degradation;1;2;50.0%
+Tyrosine degradation;4;6;66.66666666666666%
+Asparagine synthesis;1;1;100.0%
+Asparagine degradation;1;1;100.0%
+Histidine degradation;4;4;100.0%
+Beta-alanine degradation;3;3;100.0%
+Beta-alanine synthesis;1;1;100.0%
+Creatine ATP buffer;2;2;100.0%
+Acetate production;1;1;100.0%
+Alcohol metabolism;6;7;85.71428571428571%
+Purine Nucleotide Cycle;3;3;100.0%
+Urea Cycle;4;4;100.0%
+Haem Synthesis;8;10;80.0%
+Haem Degradation;3;3;100.0%
+Cardiolipin synthesis;3;12;25.0%
+ROS defense;5;5;100.0%
+Mitochondrial transporters - characterised;0;30;0.0%
+Mitochondrial transporters - uncharacterised;0;24;0.0%
+Mitochondrial transport - diffusion / artificial;0;11;0.0%
+Mitochondrial transport - lipids;0;3;0.0%
+Boundary conditions - core;0;10;0.0%
+Boundary conditions - alternative fuels;0;5;0.0%
+Boundary conditions - essential amino acids;0;9;0.0%
+Boundary conditions - nonessential amino acids;0;11;0.0%
+Boundary Conditions - Biomarkers;0;17;0.0%
+Boundary Conditions - Misc;0;19;0.0%
+Boundary Conditions - Lipids;0;3;0.0%
