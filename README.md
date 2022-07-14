@@ -19,6 +19,8 @@ Notebook jupyter contenant divers comparaison des modèles MitoCore et IMM1415 a
 Notebook jupyter montrant le raisonnement permettant la modification du modèle mitocore pour qu'il représente mieux la souris.
 Ce notebook nécessite d'avoir téléchargé la base de données BRENDA est l'avoir placée dans un dossier nommé "Brenda" situé au même niveau que le notebook.
 [Télecharger la base de donées BRENDA](https://www.brenda-enzymes.org/download_brenda_without_registration.php)
+## model_convertion.csv 
+Fichier contenant les informations issues de la littérature sur les réactions affectées par la calpaïnopathie dans les modèles.
 ## Utils_cobrapy.py
 Ce fichier contient un module python permettant de facilier la manipulation et l'analyse des modèles COBRA utilisés lors de ce stage.
 #### get_sum_fluxes()
