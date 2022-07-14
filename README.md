@@ -11,6 +11,8 @@ Package notables : numpy,matplotlib,seaborn,pandas
 ```bash
 jupyter notebook
 ```
+## V1.2.ipynb
+Notebook jupyter contenant les adaptations des modèles par rapport au données issues de la bibliographie et l'adaptation à la calpaïnopathie.
 ## Model_comparison.ipynb
 Notebook jupyter contenant divers comparaison des modèles MitoCore et IMM1415 au niveau des réactions et des sous-systèmes.
 ## Mitocore2mouse.ipynb
