@@ -7,7 +7,10 @@ Il faut tout d'abord installer l'environnement CONDA à l'aide du fichier Cobrap
 conda env create -f environment.yml
 ```
 Package notables : numpy,matplotlib,seaborn,pandas
-
+## Utilisation des notebooks jupyter
+```bash
+jupyter notebook
+```
 ## Utils_cobrapy.py
 Ce fichier contient un module python permettant de facilier la manipulation et l'analyse des modèles COBRA utilisés lors de ce stage.
 #### get_sum_fluxes()
