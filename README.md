@@ -11,6 +11,8 @@ Package notables : numpy,matplotlib,seaborn,pandas
 ```bash
 jupyter notebook
 ```
+## Model_comparison.ipynb
+Notebook jupyter contenant divers comparaison des modèles MitoCore et IMM1415 au niveau des réactions et des sous-systèmes.
 ## Utils_cobrapy.py
 Ce fichier contient un module python permettant de facilier la manipulation et l'analyse des modèles COBRA utilisés lors de ce stage.
 #### get_sum_fluxes()
