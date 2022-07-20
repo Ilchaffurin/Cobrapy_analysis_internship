@@ -1,11 +1,11 @@
 # Cobrapy_analysis_internship
 Le travail fait lors de ce stage de M2 à été effectué à l'aide d'environnement [CONDA](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 
-L'objectif était de modéliser le métabolisme énergétique d'un individu (houris ou humain) atteint par la calpaïnopathie. Afin de pouvoir étudier le comportement de ce méétabolisme.
+L'objectif était de modéliser le métabolisme énergétique d'un individu (souris ou humain) atteint par la calpaïnopathie. Afin de pouvoir étudier le comportement du  métabolisme.
 
-Les modèles utilisés sont des modèles SBML et ont été manipulés avec le module [Cobrapy](https://cobrapy.readthedocs.io/en/latest/getting_started.html).
-Tous les modèles utilisés et produits lors de ce stage sont contenus dans le répertoire "Models".
-Le comportement de chaque modèle a été étudié en appliquant des [FBA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108565/) (Flux Balance Analysis) sur les  modèles.
+Les modèles utilisés sont des modèles SBML et ont été manipulés avec le module [Cobrapy](https://cobrapy.readthedocs.io/en/latest/getting_started.html).\
+Tous les modèles utilisés et produits lors de ce stage sont contenus dans le répertoire "Models". \
+Le comportement de chaque modèle a été étudié en appliquant des [FBA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108565/) (Flux Balance Analysis) sur les  modèles.\
 Le mémoire  de stage est aussi présent sur ce github afin de mieux comprendre la démarche scientifique.
 ## Installation
 Il faut tout d'abord installer l'environnement CONDA à l'aide du fichier Cobrapy_environnement.yml.
